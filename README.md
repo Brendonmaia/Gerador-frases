@@ -1,16 +1,7 @@
-# React + Vite
+# Gerador de Frases 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplicativo desenvolvido em React para gerar conselhos e frases inspiradoras com estilo visual moderno.
 
-Currently, two official plugins are available:
+## 📸 Demonstração
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+![Preview do Projeto](https://private-user-images.githubusercontent.com/237889428/625426325-c4dcd95a-ed22-465c-97e9-7196b0bb08c3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ3NzE5NzcsIm5iZiI6MTc4NDc3MTY3NywicGF0aCI6Ii8yMzc4ODk0MjgvNjI1NDI2MzI1LWM0ZGNkOTVhLWVkMjItNDY1Yy05N2U5LTcxOTZiMGJiMDhjMy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyM1QwMTU0MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZmYzNTQ0ZDJjYjJkMmE1Yzc3ODViZTUwMWJkN2E3YTEzY2VlYzdhYzMzZjM1OTk1OTQwOWRjZmEzY2I1MmJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.rXvYubEcuPdoCYuyujgDv2vjC-tSFxYt0Kdp9bSLoi4)
